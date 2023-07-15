@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author afwadmin
+ * @author Tharindu Jayashan
  */
 public class UpdateAdmin extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package supermarket;
 
 /**
  *
- * @author afwadmin
+ * @author Tharindu Jayashan
  */
 public class Supermarket {
 

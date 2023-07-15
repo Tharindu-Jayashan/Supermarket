@@ -18,7 +18,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author afwadmin
+ * @author Tharindu Jayashan
  */
 public class Products extends javax.swing.JFrame {
 

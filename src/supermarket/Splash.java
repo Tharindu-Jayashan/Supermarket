@@ -9,7 +9,7 @@ import jdk.nashorn.internal.codegen.CompilerConstants;
 
 /**
  *
- * @author afwadmin
+ * @author Tharindu Jayashan
  */
 public class Splash extends javax.swing.JFrame {
 

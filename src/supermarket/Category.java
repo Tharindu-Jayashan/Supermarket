@@ -17,7 +17,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author afwadmin
+ * @author Tharindu Jayashan
  */
 public class Category extends javax.swing.JFrame {
 
